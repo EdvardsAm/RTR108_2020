@@ -1,0 +1,47 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  ssh x181REB358@213.175.92.22
+    4  nano
+    5  ls -l
+    6  gcc
+    7  nano git
+    8  git clone https://github.com/EdvardsAm/RTR108_2020
+    9  mv git RTR108_2020/
+   10  nano git
+   11  nano git-upload
+   12  chmod 744 git-upload 
+   13  ls -l
+   14  mv git-upload RTR108_2020/
+   15  cd RTR108_2020/
+   16  ls -l
+   17* m git
+   18  ls -l
+   19  nano README.md 
+   20  ./git-upload 202000130_10_50
+   21  python
+   22  ipython
+   23  nano python_tests.py
+   24  cat python_tests.py
+   25  python python_tests.py
+   26  nano python_tests.py
+   27  cat python_tests.py
+   28  python --version
+   29  python python_tests.py
+   30  python2 python_tests.py
+   31  nano python_tests.py
+   32  python2 python_tests.py
+   33  nano python_tests.py
+   34  python2 python_tests.py
+   35  cp python_tests.py python_tests_auto_exe.py
+   36  nano python_tests_auto_exe.py
+   37  chmod 744 python_tests_auto_exe.py
+   38  ./ 744 python_tests_auto_exe.py
+   39  ./744 python_tests_auto_exe.py
+   40  chmod 744 python_tests_auto_exe.py
+   41  ./744 python_tests_auto_exe.py
+   42  idle &
+   43  ls -l
+   44  python2 -m SimpleHTTPServer 8000
+   45  ls -l
+   46  history
+   47  history >> history_20200130.txt
