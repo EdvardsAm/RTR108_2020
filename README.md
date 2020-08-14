@@ -5,7 +5,7 @@ Sava repozitorija izveide un .md faila formatēšanas paņēmieni.
 ## 2.-4. nodarbība
 Tika pastiprinātas un pildveidotas zināšanas izmantojot python programmēšanas valodu. 
 Apgūtas iemaņas sava koda izveidē izmantojot:
-######-izteiksmes, lai veiktu praktiskus darbus, piemēram peļņas aprēķins atkarībā no nostrādātajām stundām:
+###### -izteiksmes, lai veiktu praktiskus darbus, piemēram peļņas aprēķins atkarībā no nostrādātajām stundām:
 ```
 rawstr=input('Ievadi stundas:')
 x=int(rawstr)
