@@ -17,7 +17,7 @@ if x>40:
     print((40*y)+(x-40)*y*1.5)
 ```
     
-    -funkcijas, lai veidotu jaunas funkcijas vai atgrieztu kādu noteiktu izejas rezultātu
+###### -funkcijas, lai veidotu jaunas funkcijas vai atgrieztu kādu noteiktu izejas rezultātu
 ```
 def greet(lang):
 iflang== 'es':
@@ -28,20 +28,20 @@ else:
     return'Hello'
 ```
     
-    -mezglus(loops), lai iegūtu sarakstu ar noteiktām iterācijām.
+###### -mezglus(loops), lai iegūtu sarakstu ar noteiktām iterācijām.
 ```
 for i in[5, 4, 3, 2, 1]:
     print(i)
 print('Blastoff!')
 ```
     
-    -virknes(strings), lai iegūtu informāciju par ieejas argumentiem.
+###### -virknes(strings), lai iegūtu informāciju par ieejas argumentiem.
 ```
 fruit= 'banana'
 print(len(fruit))
 ```
 
-    -failu apstrādi, lai iegūtu informāciju par failiem noteiktā direktorijā.
+###### -failu apstrādi, lai iegūtu informāciju par failiem noteiktā direktorijā.
 ```
 fhand= open('mbox.txt')
 count= 0
