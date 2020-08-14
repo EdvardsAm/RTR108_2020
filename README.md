@@ -49,3 +49,25 @@ for line in fhand:
     count=count+1
 print('Line Count:',count)
 ```
+## 5.nodarbība
+## 6.nodarbība
+Apgūtas iemaņas sava koda izveidē izmantojot objektus(objects) pitona vidē, lai pievienotu objektiem papildus vērtības, aprakstus, iedalījumu.
+```
+class PartyAnimal:
+    x=0
+
+    def __init__(self,z):
+        self.name=z
+        print(self.name,"constructed")
+
+    def party(self):
+        self.x=self.x+1
+        print(self.name,"party count",self.x)
+
+s=PartyAnimal("Sally")
+j=PartyAnimal("Jim")
+
+s.party()
+j.party()
+s.party()
+```
