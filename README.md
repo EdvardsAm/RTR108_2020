@@ -71,10 +71,10 @@ s.party()
 j.party()
 s.party()
 ```
-##7.nodarība
-##9.nodarbība
+## 7.nodarība
+## 9.nodarbība
 Tika iegūtas zināšanas par to kā veidot shēmas izmantojot gschem un kā tās simulēt ngspice vidē lai iegūtu nepieciešamos rezultātus.
-##10.-11.nodarbība
+## 10.-11.nodarbība
 Izmantojot LaTeX vidi, tika apgūti vairāki failu formatēšanas paņēmieni:
 -vienādojumu izveide
 -bilžu ievietošana, apstrāde
