@@ -81,3 +81,6 @@ Izmantojot LaTeX vidi, tika apgūti vairāki failu formatēšanas paņēmieni:
 - tabulu izveide, apstrāde
 - sarakstu izveide 
 - teksta apstrāde
+## 12.nodarbība
+## 13.nodarbība
+Tika atrisināti vingrinājumi un uzdevumi, un iegūtas pamata zināšanas lietojot JavaScript programmēšanas valodu.
